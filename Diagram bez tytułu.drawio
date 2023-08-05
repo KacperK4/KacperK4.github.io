@@ -1,9 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T14:54:57.380Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" version="21.6.6" etag="jlBxEqv5ObtaMMJ7LB9g" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T15:07:29.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kT3l3W9wrigox4IqYsNn" version="21.6.6" type="github">
   <diagram name="Strona-1" id="Cubu7HJ0IMN9YPmsdzr2">
-    <mxGraphModel>
+    <mxGraphModel dx="819" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-1" target="AXEPCm_JVfY-Saie_rfD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-1" target="AXEPCm_JVfY-Saie_rfD-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-8" value="dane" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-7">
+          <mxGeometry x="-0.2696" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.151;entryY=0.012;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-1" target="AXEPCm_JVfY-Saie_rfD-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="102" y="30" as="sourcePoint" />
+            <mxPoint x="480.00000000000006" y="10.980000000000018" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="10" />
+              <mxPoint x="498" y="10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-20" value="dane" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-19">
+          <mxGeometry x="0.0222" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-21" value="&lt;br&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-19">
+          <mxGeometry x="0.1488" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=-0.015;entryY=0.831;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-1" target="AXEPCm_JVfY-Saie_rfD-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="120" y="20" />
+              <mxPoint x="320" y="20" />
+              <mxPoint x="320" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-23" value="dane" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-22">
+          <mxGeometry x="-0.207" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-1" value="User" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-2" target="AXEPCm_JVfY-Saie_rfD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-9" value="Nie" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-6">
+          <mxGeometry x="-0.15" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-2" target="AXEPCm_JVfY-Saie_rfD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-12" value="Tak" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-11">
+          <mxGeometry x="-0.0321" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-2" value="Istnieje?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-5" target="AXEPCm_JVfY-Saie_rfD-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-5" value="Nowe konto" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-10" target="AXEPCm_JVfY-Saie_rfD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-10" target="AXEPCm_JVfY-Saie_rfD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-10" value="pobiera dane z database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="50" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.632;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-15" target="AXEPCm_JVfY-Saie_rfD-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-15" value="dodaje dane &lt;br&gt;user + database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.356;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-17" target="AXEPCm_JVfY-Saie_rfD-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="720" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-17" value="odejmue dane&lt;br&gt;user - database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-24" target="AXEPCm_JVfY-Saie_rfD-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-24" value="wysyła przetworzone dane do database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-30" target="AXEPCm_JVfY-Saie_rfD-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-30" value="Wysłano nowe dane!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
