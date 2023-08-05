@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-05T15:07:29.962Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="kT3l3W9wrigox4IqYsNn" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-05T15:26:31.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="nlxJ0uucuPoD9-tlu-2v" version="21.6.6" type="github">
   <diagram name="Strona-1" id="Cubu7HJ0IMN9YPmsdzr2">
-    <mxGraphModel dx="819" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="989" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,8 +84,18 @@
         <mxCell id="AXEPCm_JVfY-Saie_rfD-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-10" target="AXEPCm_JVfY-Saie_rfD-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-35" value="+" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-16">
+          <mxGeometry x="0.0125" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AXEPCm_JVfY-Saie_rfD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-10" target="AXEPCm_JVfY-Saie_rfD-17">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-36" value="-" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-18">
+          <mxGeometry x="-0.0056" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="AXEPCm_JVfY-Saie_rfD-10" value="pobiera dane z database" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="50" width="80" height="60" as="geometry" />
@@ -107,6 +117,14 @@
         <mxCell id="AXEPCm_JVfY-Saie_rfD-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-24" target="AXEPCm_JVfY-Saie_rfD-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXEPCm_JVfY-Saie_rfD-24" target="AXEPCm_JVfY-Saie_rfD-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-39" value="ERROR?" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="AXEPCm_JVfY-Saie_rfD-38">
+          <mxGeometry x="-0.1766" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AXEPCm_JVfY-Saie_rfD-24" value="wysyła przetworzone dane do database" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="230" width="120" height="60" as="geometry" />
         </mxCell>
@@ -115,6 +133,9 @@
         </mxCell>
         <mxCell id="AXEPCm_JVfY-Saie_rfD-30" value="Wysłano nowe dane!" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AXEPCm_JVfY-Saie_rfD-37" value="Wyjebało Serwery database :/" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="340" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
